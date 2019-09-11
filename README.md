@@ -21,7 +21,8 @@ https://blog.xkcd.com/2010/05/03/color-survey-results/
 
 ## Experiments
 
-Expirements are shwon in different notebooks. Single model predictions are stored in folder for training ensemble model.
+Experiments are shown in different notebooks. Single model predictions are stored in a folder for training the ensemble model.
+
 
 ## Publication
 EMNLP 2019
