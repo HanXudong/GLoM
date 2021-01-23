@@ -1,5 +1,5 @@
 # GLoM
-Grounding learning of modifier dynamics: An application to color naming
+Source codes for EMNLP 2019 paper "Grounding learning of modifier dynamics: An application to color naming"
 
 ## Requirements
 tensorflow 1.10.0
